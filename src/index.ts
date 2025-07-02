@@ -24,7 +24,7 @@ const progressBarDiv = document.getElementById("progressBarDiv") as HTMLDivEleme
 const BOARD_INDEX_URL = "https://f.jaculus.org/bin";
 // const BOARD_INDEX_URL = "https://f.kubaandrysek.cz/bin"; // proxy to f.jaculus.org (added CORS headers)
 //const BOARD_INDEX_URL = "http://localhost:8080";
-const BOARDS_INDEX_JSON = "boards2.json";
+const BOARDS_INDEX_JSON = "boards.json";
 const BOARD_VERSIONS_JSON = "versions.json";
 
 // This is a frontend example of Esptool-JS using local bundle file
